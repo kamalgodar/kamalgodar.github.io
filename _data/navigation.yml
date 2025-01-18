@@ -10,9 +10,10 @@ main:
 
   - title: "Resume"
     url: /resume/
+    # url: /files/CV_Shiva.pdf
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
 
   - title: "Teaching"
     url: /teaching/    
